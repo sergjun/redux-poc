@@ -10,20 +10,20 @@ Hope this will help me to fixated the concepts of reducers and actions and how t
 
 ## STORE
 
-Globalized state
+- Globalized state
 
 ## Action
 
-Some action, like the description to do something
-A function that returns a object
+- Some action, like the description to do something
+- A function that returns a object
 
 ## Reducer
 
-A function that takes the previous state and an action, and returns the next state
+- A function that takes the previous state and an action, and returns the next state
 
 ## Dispatcher
 
-The method that calls the reducer which takes a action and change the state in the store
+- The method that calls the reducer which takes a action and change the state in the store
 
 # Running
 
